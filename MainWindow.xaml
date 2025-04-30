@@ -11,7 +11,7 @@
             <Canvas DockPanel.Dock="Top" Background="Gray" Height="50" HorizontalAlignment="Stretch">
                 <Button Content="Button" Click="Button_Click"/>
             </Canvas>
-            <Canvas DockPanel.Dock="Top" Background="LightBlue" HorizontalAlignment="Stretch"></Canvas>
+            <Canvas Name="CanvasBackground" DockPanel.Dock="Top" Background="LightBlue" HorizontalAlignment="Stretch"></Canvas>
         </DockPanel>
     </Grid>
 </Window>
