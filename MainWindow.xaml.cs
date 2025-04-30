@@ -23,7 +23,8 @@ namespace _2AHIF_Test
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Hello");
+            MessageBox.Show("Hello World");
+            CanvasBackground.Background = Brushes.DarkKhaki;
         }
     }
 }
