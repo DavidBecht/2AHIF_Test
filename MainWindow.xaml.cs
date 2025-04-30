@@ -23,7 +23,7 @@ namespace _2AHIF_Test
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Hollo");
+            MessageBox.Show("Hello");
         }
     }
 }
